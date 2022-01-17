@@ -2,6 +2,7 @@ Knes 1.9.9 [WIP]
 -------------------------------
 
 	- Fix STEAM Crystal Module Cost
+	- Add French translation
 	
 Knes 1.9.8 [2021-08-04]
 -------------------------------
